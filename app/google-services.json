@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664171178739",
+    "project_id": "maincra-fcded",
+    "storage_bucket": "maincra-fcded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664171178739:android:360f378d8df85fe049a586",
+        "android_client_info": {
+          "package_name": "com.miempresa.cuarta_evaluacion_moviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzqozY-eZY5st3k6l7U5tkviftMUXD4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664171178739:android:89541b958c2f6fe749a586",
+        "android_client_info": {
+          "package_name": "com.miempresa.laboratorio12a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzqozY-eZY5st3k6l7U5tkviftMUXD4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
